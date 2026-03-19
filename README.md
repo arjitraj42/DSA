@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/arjitraj42/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/arjitraj42/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/arjitraj42/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/arjitraj42/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/arjitraj42/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/arjitraj42/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/arjitraj42/DSA/tree/master/0938-range-sum-of-bst) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/arjitraj42/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/arjitraj42/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/arjitraj42/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/arjitraj42/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/arjitraj42/DSA/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/arjitraj42/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/arjitraj42/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/arjitraj42/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/arjitraj42/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/arjitraj42/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/arjitraj42/DSA/tree/master/0938-range-sum-of-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/arjitraj42/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/arjitraj42/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/arjitraj42/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/arjitraj42/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/arjitraj42/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Stack
 |  |
