@@ -10,37 +10,33 @@
  */
 class Solution {
 public:
-ListNode* reverse(ListNode* head){
-        ListNode* prev = NULL;
-        while(head){
-            ListNode* next = head->next;
-            head->next = prev;
-            prev = head;
-            head = next;
-        }
-        return prev;
-    }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode * dummy = new ListNode(0);
-        ListNode* curr = dummy;
-        int carry = 0;
-        l1 = reverse(l1);
-        l2 = reverse(l2);
-        while(l1 != NULL || l2 != NULL || carry){
-            int sum = carry;
-            if(l1 != NULL){
-                sum += l1->val;
-                l1 = l1->next;
-            }
-            if(l2 != NULL){
-                sum += l2->val;
-                l2 = l2->next;
-            }
-            carry = sum/10;
-            curr->next = new ListNode(sum%10);
-            curr = curr->next;
+        stack<int>s1, s2;
+        while(l1){
+            s1.push(l1->val);
+            l1 = l1->next;
         }
-        
-        return reverse(dummy->next);
+        while(l2){
+            s2.push(l2->val);
+            l2 = l2->next;
+        }
+        int carry = 0;
+        ListNode* head = NULL;
+        while(!s1.empty() || !s2.empty() || carry){
+            int sum = carry;
+            if(!s1.empty()){
+                sum += s1.top();
+                s1.pop();
+            }
+            if(!s2.empty()){
+                sum += s2.top();
+                s2.pop();
+            }
+            ListNode* node = new ListNode(sum%10);
+            node->next = head;
+            head = node;
+            carry = sum /10;
+        }  
+        return head;
     }
 };
