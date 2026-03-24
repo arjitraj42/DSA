@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/arjitraj42/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0541-reverse-string-ii](https://github.com/arjitraj42/DSA/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/arjitraj42/DSA/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/arjitraj42/DSA/tree/master/1002-find-common-characters) |
 ## Design
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/arjitraj42/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/arjitraj42/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/arjitraj42/DSA/tree/master/0143-reorder-list) |
+| [0541-reverse-string-ii](https://github.com/arjitraj42/DSA/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/arjitraj42/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/arjitraj42/DSA/tree/master/0917-reverse-only-letters) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/arjitraj42/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
