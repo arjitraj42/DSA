@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/arjitraj42/DSA/tree/master/0143-reorder-list) |
+| [0445-add-two-numbers-ii](https://github.com/arjitraj42/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/arjitraj42/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Array
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/arjitraj42/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/arjitraj42/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/arjitraj42/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0445-add-two-numbers-ii](https://github.com/arjitraj42/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/arjitraj42/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/arjitraj42/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/arjitraj42/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/arjitraj42/DSA/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/arjitraj42/DSA/tree/master/0231-power-of-two) |
+| [0445-add-two-numbers-ii](https://github.com/arjitraj42/DSA/tree/master/0445-add-two-numbers-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/arjitraj42/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
