@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/arjitraj42/DSA/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/arjitraj42/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/arjitraj42/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [2487-remove-nodes-from-linked-list](https://github.com/arjitraj42/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/arjitraj42/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/arjitraj42/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/arjitraj42/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/arjitraj42/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/arjitraj42/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/arjitraj42/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/arjitraj42/DSA/tree/master/0231-power-of-two) |
+| [2487-remove-nodes-from-linked-list](https://github.com/arjitraj42/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/arjitraj42/DSA/tree/master/0917-reverse-only-letters) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/arjitraj42/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/arjitraj42/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/arjitraj42/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
