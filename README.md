@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arjitraj42/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/arjitraj42/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arjitraj42/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arjitraj42/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arjitraj42/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/arjitraj42/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/arjitraj42/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/arjitraj42/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/arjitraj42/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1002-find-common-characters](https://github.com/arjitraj42/DSA/tree/master/1002-find-common-characters) |
@@ -106,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/arjitraj42/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arjitraj42/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arjitraj42/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/arjitraj42/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arjitraj42/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arjitraj42/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/arjitraj42/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/arjitraj42/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/arjitraj42/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/arjitraj42/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2404-most-frequent-even-element](https://github.com/arjitraj42/DSA/tree/master/2404-most-frequent-even-element) |
