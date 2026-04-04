@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/arjitraj42/DSA/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/arjitraj42/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/arjitraj42/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/arjitraj42/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/arjitraj42/DSA/tree/master/1002-find-common-characters) |
 | [2404-most-frequent-even-element](https://github.com/arjitraj42/DSA/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/arjitraj42/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/arjitraj42/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/arjitraj42/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/arjitraj42/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/arjitraj42/DSA/tree/master/2487-remove-nodes-from-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/arjitraj42/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
