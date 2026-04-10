@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/arjitraj42/DSA/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/arjitraj42/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/arjitraj42/DSA/tree/master/1046-last-stone-weight) |
+| [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/arjitraj42/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/arjitraj42/DSA/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/arjitraj42/DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/arjitraj42/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/arjitraj42/DSA/tree/master/0904-fruit-into-baskets) |
 | [1002-find-common-characters](https://github.com/arjitraj42/DSA/tree/master/1002-find-common-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/arjitraj42/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/arjitraj42/DSA/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/arjitraj42/DSA/tree/master/2540-minimum-common-value) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/arjitraj42/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/arjitraj42/DSA/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/arjitraj42/DSA/tree/master/0445-add-two-numbers-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/arjitraj42/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -244,10 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/arjitraj42/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/arjitraj42/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/arjitraj42/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arjitraj42/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arjitraj42/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/arjitraj42/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
