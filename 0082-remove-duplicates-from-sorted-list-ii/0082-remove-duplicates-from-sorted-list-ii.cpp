@@ -19,11 +19,12 @@ public:
         }
         ListNode* dummy = new ListNode(0);
         ListNode* curr = dummy;
+
         temp = head;
         while(temp != NULL){
-            if(mp [temp->val] == 1){
-            curr->next = new ListNode(temp->val);
-            curr = curr->next;
+            if(mp[temp->val] == 1){
+                curr ->next = new ListNode(temp->val);
+                curr = curr->next;
             }
             temp = temp->next;
         }
