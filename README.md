@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/arjitraj42/DSA/tree/master/1695-maximum-erasure-value) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/arjitraj42/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/arjitraj42/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arjitraj42/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/arjitraj42/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arjitraj42/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
