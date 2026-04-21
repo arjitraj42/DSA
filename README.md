@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/arjitraj42/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1695-maximum-erasure-value](https://github.com/arjitraj42/DSA/tree/master/1695-maximum-erasure-value) |
+| [1732-find-the-highest-altitude](https://github.com/arjitraj42/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/arjitraj42/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/arjitraj42/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arjitraj42/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/arjitraj42/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/arjitraj42/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/arjitraj42/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
