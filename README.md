@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/arjitraj42/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/arjitraj42/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/arjitraj42/DSA/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arjitraj42/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/arjitraj42/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/arjitraj42/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/arjitraj42/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/arjitraj42/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arjitraj42/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1695-maximum-erasure-value](https://github.com/arjitraj42/DSA/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/arjitraj42/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/arjitraj42/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/arjitraj42/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/arjitraj42/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/arjitraj42/DSA/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arjitraj42/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2487-remove-nodes-from-linked-list](https://github.com/arjitraj42/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
