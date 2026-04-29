@@ -11,15 +11,11 @@ public:
             }
             mp[senders[i]] += word;
         }
-        string ans = "";
-        int maxword = 0;
 
+        priority_queue<pair<int,string>>pq;
         for(auto it : mp){
-            if(it.second > maxword || it.second == maxword && it.first > ans){
-                maxword = it.second;
-                ans = it.first;
-            }
+            pq.push({it.second,it.first});
         }
-        return ans;
+        return pq.top().second;
     }
 };
