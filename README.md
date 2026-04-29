@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/arjitraj42/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/arjitraj42/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arjitraj42/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2284-sender-with-largest-word-count](https://github.com/arjitraj42/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2404-most-frequent-even-element](https://github.com/arjitraj42/DSA/tree/master/2404-most-frequent-even-element) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/arjitraj42/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2460-apply-operations-to-an-array](https://github.com/arjitraj42/DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/arjitraj42/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/arjitraj42/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arjitraj42/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2284-sender-with-largest-word-count](https://github.com/arjitraj42/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2404-most-frequent-even-element](https://github.com/arjitraj42/DSA/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/arjitraj42/DSA/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/arjitraj42/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/arjitraj42/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/arjitraj42/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arjitraj42/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2284-sender-with-largest-word-count](https://github.com/arjitraj42/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2390-removing-stars-from-a-string](https://github.com/arjitraj42/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/arjitraj42/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/arjitraj42/DSA/tree/master/2833-furthest-point-from-origin) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/arjitraj42/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/arjitraj42/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/arjitraj42/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2284-sender-with-largest-word-count](https://github.com/arjitraj42/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2404-most-frequent-even-element](https://github.com/arjitraj42/DSA/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/arjitraj42/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/arjitraj42/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
