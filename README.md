@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/arjitraj42/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/arjitraj42/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/arjitraj42/DSA/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/arjitraj42/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arjitraj42/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arjitraj42/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/arjitraj42/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/arjitraj42/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/arjitraj42/DSA/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/arjitraj42/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/arjitraj42/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/arjitraj42/DSA/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/arjitraj42/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/arjitraj42/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/arjitraj42/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/arjitraj42/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/arjitraj42/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/arjitraj42/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/arjitraj42/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/arjitraj42/DSA/tree/master/2487-remove-nodes-from-linked-list) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/arjitraj42/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/arjitraj42/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/arjitraj42/DSA/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/arjitraj42/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arjitraj42/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2487-remove-nodes-from-linked-list](https://github.com/arjitraj42/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
