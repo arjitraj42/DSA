@@ -1,20 +1,20 @@
 class Solution {
 public:
     double findMaxAverage(vector<int>& nums, int k) {
+        double avg = 0;
         int n = nums.size();
+        double maxsum =INT_MIN;
         double sum = 0;
-        double maxsum = 0;
-        double avg=0;
-        for(int i = 0; i < k; i++){
+        for(int i = 0; i <k; i++){
             sum += nums[i];
         }
-        maxsum = sum;
-        
+        maxsum = max(sum,maxsum);
         for(int i = k; i < n; i++){
-            sum = sum+ nums[i] - nums[i - k];
-            maxsum = max(maxsum, sum);
+            sum -= nums[i - k];
+            sum += nums[i];
+            maxsum = max(sum,maxsum);
         }
-            avg = maxsum/k;
-        return avg;  
+        avg = maxsum/k;
+        return avg;
     }
 };
