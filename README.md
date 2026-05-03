@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/arjitraj42/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/arjitraj42/DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/arjitraj42/DSA/tree/master/0567-permutation-in-string) |
+| [0709-to-lower-case](https://github.com/arjitraj42/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/arjitraj42/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/arjitraj42/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/arjitraj42/DSA/tree/master/0917-reverse-only-letters) |
