@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/arjitraj42/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/arjitraj42/DSA/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3794-reverse-string-prefix](https://github.com/arjitraj42/DSA/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/arjitraj42/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/arjitraj42/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/arjitraj42/DSA/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/arjitraj42/DSA/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/arjitraj42/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/arjitraj42/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/arjitraj42/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/arjitraj42/DSA/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/arjitraj42/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
