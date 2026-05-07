@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/arjitraj42/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/arjitraj42/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/arjitraj42/DSA/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3794-reverse-string-prefix](https://github.com/arjitraj42/DSA/tree/master/3794-reverse-string-prefix) |
 ## Design
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/arjitraj42/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/arjitraj42/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/arjitraj42/DSA/tree/master/2540-minimum-common-value) |
+| [3794-reverse-string-prefix](https://github.com/arjitraj42/DSA/tree/master/3794-reverse-string-prefix) |
 ## Monotonic Stack
 |  |
 | ------- |
