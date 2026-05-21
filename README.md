@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjitraj42/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/arjitraj42/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arjitraj42/DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/arjitraj42/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arjitraj42/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arjitraj42/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arjitraj42/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/arjitraj42/DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/arjitraj42/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arjitraj42/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/arjitraj42/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arjitraj42/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjitraj42/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/arjitraj42/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/arjitraj42/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/arjitraj42/DSA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/arjitraj42/DSA/tree/master/0142-linked-list-cycle-ii) |
