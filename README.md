@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/arjitraj42/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/arjitraj42/DSA/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/arjitraj42/DSA/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/arjitraj42/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/arjitraj42/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/arjitraj42/DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/arjitraj42/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/arjitraj42/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/arjitraj42/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/arjitraj42/DSA/tree/master/2540-minimum-common-value) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/arjitraj42/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3794-reverse-string-prefix](https://github.com/arjitraj42/DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/arjitraj42/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Monotonic Stack
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0183-customers-who-never-order](https://github.com/arjitraj42/DSA/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/arjitraj42/DSA/tree/master/0196-delete-duplicate-emails) |
+## Enumeration
+|  |
+| ------- |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/arjitraj42/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
