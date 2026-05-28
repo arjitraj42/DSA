@@ -5,7 +5,7 @@ public:
         int ans = 0;
         int i = 0;
         int maxfreq = 0;
-        int freq = 0;
+        
         for(int j = 0; j < s.size(); j++){
             mp[s[j]]++;
 
