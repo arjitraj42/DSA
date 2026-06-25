@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/arjitraj42/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/arjitraj42/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1331-rank-transform-of-an-array](https://github.com/arjitraj42/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arjitraj42/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arjitraj42/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1695-maximum-erasure-value](https://github.com/arjitraj42/DSA/tree/master/1695-maximum-erasure-value) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/arjitraj42/DSA/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/arjitraj42/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/arjitraj42/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/arjitraj42/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1695-maximum-erasure-value](https://github.com/arjitraj42/DSA/tree/master/1695-maximum-erasure-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/arjitraj42/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/arjitraj42/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0888-fair-candy-swap](https://github.com/arjitraj42/DSA/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/arjitraj42/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/arjitraj42/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arjitraj42/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/arjitraj42/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arjitraj42/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
