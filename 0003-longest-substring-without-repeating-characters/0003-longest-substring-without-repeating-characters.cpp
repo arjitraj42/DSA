@@ -2,13 +2,13 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         unordered_map<char,int>mp;
-        int n = s.size();
-        int j = 0; 
         int maxlen = 0;
-        for(int i = 0; i < n; i++){
+        int n = s.size();
+        int j = 0;
+        for(int i = 0; i < n;i++){
             while(mp.find(s[i]) != mp.end()){
                 mp[s[j]]--;
-                if(mp[s[j]] == 0){
+                if(mp[s[j]] == 0) {
                     mp.erase(s[j]);
                 }
                 j++;
