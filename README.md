@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/arjitraj42/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arjitraj42/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arjitraj42/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1528-shuffle-string](https://github.com/arjitraj42/DSA/tree/master/1528-shuffle-string) |
 | [1695-maximum-erasure-value](https://github.com/arjitraj42/DSA/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/arjitraj42/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/arjitraj42/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arjitraj42/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/arjitraj42/DSA/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arjitraj42/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1528-shuffle-string](https://github.com/arjitraj42/DSA/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/arjitraj42/DSA/tree/master/1544-make-the-string-great) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/arjitraj42/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/arjitraj42/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
