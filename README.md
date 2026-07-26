@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/arjitraj42/DSA/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/arjitraj42/DSA/tree/master/1544-make-the-string-great) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/arjitraj42/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1678-goal-parser-interpretation](https://github.com/arjitraj42/DSA/tree/master/1678-goal-parser-interpretation) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/arjitraj42/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/arjitraj42/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/arjitraj42/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
