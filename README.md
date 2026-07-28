@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/arjitraj42/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arjitraj42/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/arjitraj42/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/arjitraj42/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/arjitraj42/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arjitraj42/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/arjitraj42/DSA/tree/master/0242-valid-anagram) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/arjitraj42/DSA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arjitraj42/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/arjitraj42/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/arjitraj42/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/arjitraj42/DSA/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/arjitraj42/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arjitraj42/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/arjitraj42/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/arjitraj42/DSA/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/arjitraj42/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/arjitraj42/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/arjitraj42/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/arjitraj42/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/arjitraj42/DSA/tree/master/0344-reverse-string) |
