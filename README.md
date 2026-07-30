@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/arjitraj42/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arjitraj42/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/arjitraj42/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/arjitraj42/DSA/tree/master/0258-add-digits) |
 | [0445-add-two-numbers-ii](https://github.com/arjitraj42/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arjitraj42/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/arjitraj42/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/arjitraj42/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/arjitraj42/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/arjitraj42/DSA/tree/master/0844-backspace-string-compare) |
@@ -518,4 +520,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/arjitraj42/DSA/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/arjitraj42/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
