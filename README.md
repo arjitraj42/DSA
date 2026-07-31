@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/arjitraj42/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/arjitraj42/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arjitraj42/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/arjitraj42/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/arjitraj42/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arjitraj42/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/arjitraj42/DSA/tree/master/0088-merge-sorted-array) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/arjitraj42/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/arjitraj42/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/arjitraj42/DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/arjitraj42/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arjitraj42/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/arjitraj42/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arjitraj42/DSA/tree/master/0202-happy-number) |
