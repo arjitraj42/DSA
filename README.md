@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/arjitraj42/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/arjitraj42/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/arjitraj42/DSA/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
+| [3866-first-unique-even-element](https://github.com/arjitraj42/DSA/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/arjitraj42/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/arjitraj42/DSA/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/arjitraj42/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3866-first-unique-even-element](https://github.com/arjitraj42/DSA/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/arjitraj42/DSA/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/arjitraj42/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/arjitraj42/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3866-first-unique-even-element](https://github.com/arjitraj42/DSA/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
 | ------- |
