@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/arjitraj42/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/arjitraj42/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/arjitraj42/DSA/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/arjitraj42/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/arjitraj42/DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/arjitraj42/DSA/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/arjitraj42/DSA/tree/master/0709-to-lower-case) |
