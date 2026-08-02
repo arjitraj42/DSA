@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/arjitraj42/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/arjitraj42/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/arjitraj42/DSA/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/arjitraj42/DSA/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/arjitraj42/DSA/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/arjitraj42/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/arjitraj42/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/arjitraj42/DSA/tree/master/0258-add-digits) |
 | [0445-add-two-numbers-ii](https://github.com/arjitraj42/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arjitraj42/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/arjitraj42/DSA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/arjitraj42/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/arjitraj42/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arjitraj42/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/arjitraj42/DSA/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/arjitraj42/DSA/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -540,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arjitraj42/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/arjitraj42/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
