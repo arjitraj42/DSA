@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/arjitraj42/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/arjitraj42/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/arjitraj42/DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/arjitraj42/DSA/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/arjitraj42/DSA/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/arjitraj42/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arjitraj42/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/arjitraj42/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/arjitraj42/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/arjitraj42/DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/arjitraj42/DSA/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/arjitraj42/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/arjitraj42/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/arjitraj42/DSA/tree/master/0771-jewels-and-stones) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/arjitraj42/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arjitraj42/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/arjitraj42/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/arjitraj42/DSA/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/arjitraj42/DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/arjitraj42/DSA/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/arjitraj42/DSA/tree/master/0709-to-lower-case) |
