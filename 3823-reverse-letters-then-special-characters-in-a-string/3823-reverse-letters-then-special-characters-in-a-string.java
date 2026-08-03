@@ -16,9 +16,11 @@ class Solution {
 
         for(char ch : s.toCharArray()){
             if(Character.isLetter(ch)){
-                ans += letter.charAt(i--);
+                ans += letter.charAt(i);
+                i--;
             }else{
-                ans += symbol.charAt(j--);
+                ans += symbol.charAt(j);
+                j--;
             }
         }
         return ans;
