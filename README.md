@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arjitraj42/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2284-sender-with-largest-word-count](https://github.com/arjitraj42/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2404-most-frequent-even-element](https://github.com/arjitraj42/DSA/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/arjitraj42/DSA/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/arjitraj42/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2460-apply-operations-to-an-array](https://github.com/arjitraj42/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/arjitraj42/DSA/tree/master/2540-minimum-common-value) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arjitraj42/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2284-sender-with-largest-word-count](https://github.com/arjitraj42/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2404-most-frequent-even-element](https://github.com/arjitraj42/DSA/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/arjitraj42/DSA/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/arjitraj42/DSA/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/arjitraj42/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/arjitraj42/DSA/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arjitraj42/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2284-sender-with-largest-word-count](https://github.com/arjitraj42/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2390-removing-stars-from-a-string](https://github.com/arjitraj42/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/arjitraj42/DSA/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/arjitraj42/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2810-faulty-keyboard](https://github.com/arjitraj42/DSA/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/arjitraj42/DSA/tree/master/2833-furthest-point-from-origin) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/arjitraj42/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arjitraj42/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arjitraj42/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2418-sort-the-people](https://github.com/arjitraj42/DSA/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/arjitraj42/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Quickselect
 |  |
