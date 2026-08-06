@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/arjitraj42/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/arjitraj42/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arjitraj42/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/arjitraj42/DSA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arjitraj42/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1528-shuffle-string](https://github.com/arjitraj42/DSA/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arjitraj42/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
