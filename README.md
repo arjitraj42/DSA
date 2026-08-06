@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/arjitraj42/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/arjitraj42/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arjitraj42/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/arjitraj42/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/arjitraj42/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/arjitraj42/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/arjitraj42/DSA/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arjitraj42/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/arjitraj42/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2418-sort-the-people](https://github.com/arjitraj42/DSA/tree/master/2418-sort-the-people) |
+| [2733-neither-minimum-nor-maximum](https://github.com/arjitraj42/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/arjitraj42/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Quickselect
 |  |
