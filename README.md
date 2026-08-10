@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/arjitraj42/DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/arjitraj42/DSA/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/arjitraj42/DSA/tree/master/0888-fair-candy-swap) |
+| [0890-find-and-replace-pattern](https://github.com/arjitraj42/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/arjitraj42/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/arjitraj42/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/arjitraj42/DSA/tree/master/1002-find-common-characters) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/arjitraj42/DSA/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/arjitraj42/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/arjitraj42/DSA/tree/master/0888-fair-candy-swap) |
+| [0890-find-and-replace-pattern](https://github.com/arjitraj42/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/arjitraj42/DSA/tree/master/0904-fruit-into-baskets) |
 | [1002-find-common-characters](https://github.com/arjitraj42/DSA/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/arjitraj42/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/arjitraj42/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/arjitraj42/DSA/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/arjitraj42/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0890-find-and-replace-pattern](https://github.com/arjitraj42/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/arjitraj42/DSA/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/arjitraj42/DSA/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arjitraj42/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
