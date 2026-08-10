@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/arjitraj42/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2351-first-letter-to-appear-twice](https://github.com/arjitraj42/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/arjitraj42/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/arjitraj42/DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/arjitraj42/DSA/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/arjitraj42/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2810-faulty-keyboard](https://github.com/arjitraj42/DSA/tree/master/2810-faulty-keyboard) |
