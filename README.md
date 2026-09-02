@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/arjitraj42/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/arjitraj42/DSA/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3866-first-unique-even-element](https://github.com/arjitraj42/DSA/tree/master/3866-first-unique-even-element) |
+| [3875-construct-uniform-parity-array-i](https://github.com/arjitraj42/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/arjitraj42/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/arjitraj42/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/arjitraj42/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
