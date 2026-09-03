@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/arjitraj42/DSA/tree/master/0888-fair-candy-swap) |
 | [0938-range-sum-of-bst](https://github.com/arjitraj42/DSA/tree/master/0938-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/arjitraj42/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arjitraj42/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/arjitraj42/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/arjitraj42/DSA/tree/master/2540-minimum-common-value) |
 ## Binary Tree
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arjitraj42/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/arjitraj42/DSA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arjitraj42/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/arjitraj42/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/arjitraj42/DSA/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arjitraj42/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1695-maximum-erasure-value](https://github.com/arjitraj42/DSA/tree/master/1695-maximum-erasure-value) |
