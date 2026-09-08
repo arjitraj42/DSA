@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/arjitraj42/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/arjitraj42/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/arjitraj42/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3870-count-commas-in-range](https://github.com/arjitraj42/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arjitraj42/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
