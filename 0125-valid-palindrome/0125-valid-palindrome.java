@@ -1,6 +1,6 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        ArrayList<Character> p = new ArrayList<>();
+        ArrayList<Character> p =new ArrayList<>();
 
         for(int i = 0; i < s.length(); i++){
             char ch = s.charAt(i);
@@ -9,15 +9,15 @@ class Solution {
                 p.add(ch);
             }
         }
-        int j = p.size() - 1;
-        int i = 0;
-        while(i < j){
-            if(p.get(i) != p.get(j)){
-                return false;
+            int i = 0;
+            int j = p.size() - 1;
+            while(i < j){
+                if(p.get(i) != p.get(j)){
+                    return false;
+                }
+                i++;
+                j--;
             }
-            i++;
-            j--;
-        }
-        return true;
+            return true;
     }
 }
