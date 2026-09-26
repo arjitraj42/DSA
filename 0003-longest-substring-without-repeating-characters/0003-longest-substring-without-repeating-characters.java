@@ -1,18 +1,19 @@
-class Solution {
-    public int lengthOfLongestSubstring(String s) {
-    HashSet<Character> set = new HashSet<>();        
-        int len = 0;
-        int j = 0;
-   
-        for(int i = 0; i < s.length(); i++){
-            while(set.contains(s.charAt(i))){
-                set.remove(s.charAt(j));
-                j++;
-            }
-            set.add(s.charAt(i));
-            len = Math.max(len, i - j+ 1);
-        }
-        return len;
 
-    }
-}
+                   class Solution {
+                        public int lengthOfLongestSubstring(String s) {
+                                    int[] last = new int[256];
+                                            java.util.Arrays.fill(last, -1);
+                                                    int maxLen = 0;
+                                                            int left = 0;
+                                                                    for (int right = 0; right < s.length(); right++) {
+                                                                                    char c = s.charAt(right);
+                                                                                                if (last[c] >= left) {
+                                                                                                                    left = last[c] + 1;
+                                                                                                }
+                                                                                                            last[c] = right;
+                                                                                                                        maxLen = Math.max(maxLen, right - left + 1);
+                                                                    }
+                                                                            return maxLen;
+                        }
+                   }
+                                                                                              
