@@ -17,8 +17,8 @@ class Solution {
 
             mp.put(t.charAt(i), mp.get(t.charAt(i)) - 1);
         }
-        for(Map.Entry<Character,Integer> auto : mp.entrySet()){
-            if(auto.getValue() != 0){
+        for(Map.Entry<Character,Integer> map : mp.entrySet()){
+            if(map.getValue() != 0){
                 return false;
             }
         }
